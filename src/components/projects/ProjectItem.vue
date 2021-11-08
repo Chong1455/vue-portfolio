@@ -16,6 +16,9 @@
       <a :href="demoLink" target="_blank">
         <base-button mode="outline">Try it</base-button>
       </a>
+      <a :href="githubLink" target="_blank" class="githubLink">
+        Source Code
+      </a>
     </div>
   </li>
 </template>
@@ -30,6 +33,7 @@ export default {
     "technology",
     "imageName",
     "demoLink",
+    "githubLink",
   ],
   computed: {
     imageUrl() {
@@ -81,5 +85,10 @@ a {
 .center {
   display: flex;
   justify-content: center;
+}
+
+.githubLink {
+  color: black;
+  padding: 0.75rem;
 }
 </style>

@@ -17,11 +17,18 @@
   padding: 0px;
 }
 
-body {
-  background: url("../assets/header2.jpg") no-repeat center center fixed;
-  background-size: cover;
-  height: 31.7rem;
+body,
+html {
+  padding: 0;
+  margin: 0;
   width: 100%;
+  min-height: 87vh;
+}
+body {
+  background-image: url("../assets/header.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -29,13 +36,13 @@ h1 {
   font-size: 3rem;
   color: #e2dbdb;
   text-align: center;
-  padding-top: 77px;
+  padding-top: 7rem;
 }
 
 .buffer {
   display: flex;
   justify-content: center;
-  padding-top: 210px;
+  padding-top: 180px;
 }
 
 .btn {

@@ -16,6 +16,7 @@
           :technology="project.technology"
           :imageName="project.imageName"
           :demoLink="project.demoLink"
+          :githubLink="project.githubLink"
         ></project-item>
       </ul>
     </project-card>
@@ -36,7 +37,6 @@ export default {
       activeFilters: {
         frontend: true,
         backend: true,
-        career: true,
       },
     };
   },

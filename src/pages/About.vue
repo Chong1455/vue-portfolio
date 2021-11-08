@@ -9,12 +9,14 @@
         I am a Computer Science student from UTAR in my second year of
         university. I currently live and study in Kampar, Perak. Learn web
         development by building several web applications which you can find in
-        the project section. I enjoy programming because it allows me to solve
-        real world problems through coding. When I am not programming I enjoy
-        working out at the gym and watch some movies.
+        the project section. When I am not programming, I like to play games and
+        watch movies.
       </p>
       <div class="center">
-        <a href="https://resume.io/r/t4HmSk0PS" target="_blank">
+        <a
+          href="https://drive.google.com/file/d/1YAGc2V31QScHzn6XIszFsHvgePQ6SLRA/view"
+          target="_blank"
+        >
           <base-button>View Resume</base-button>
         </a>
       </div>
@@ -55,7 +57,7 @@
           <p><img src="../assets/express.png" />Express</p>
         </div>
         <div className="skill grow">
-          <p><img src="../assets/postgresql.png" />Postgres</p>
+          <p><img src="../assets/postgresql.png" />PostgreSQL</p>
         </div>
         <div className="skill grow">
           <p><img src="../assets/mongodb.png" />MongoDB</p>
@@ -69,6 +71,9 @@
         </div>
         <div className="skill grow">
           <p><img src="../assets/firebase.png" />Firebase</p>
+        </div>
+        <div className="skill grow">
+          <p><img src="../assets/solidity.png" />Solidity</p>
         </div>
       </div>
     </section>

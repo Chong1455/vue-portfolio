@@ -17,6 +17,7 @@ export default {
             "HTML, CSS, React, Express, Tachyons, Clarifai API, PostgreSQL",
           imageName: "project1.jpg",
           demoLink: "https://smart-brain-cks.herokuapp.com/",
+          githubLink: "https://github.com/Chong1455/smart-brain",
         },
         {
           id: "p2",
@@ -27,16 +28,18 @@ export default {
           technology: "Node.js, Express, Stripe, MongoDB, Mapbox",
           imageName: "project2.jpg",
           demoLink: "https://natours-cks.herokuapp.com/",
+          githubLink: "https://github.com/Chong1455/natours",
         },
         {
           id: "p3",
           name: "Heroes vs. Villains",
           description:
-            "A search app where you can find your favourite superheros and villains from all universes using a Superhero API.",
+            "A website where you can find your favourite superheros and villains from all universes using a Superhero API.",
           areas: ["frontend"],
           technology: "HTML, CSS, React, Superhero API",
           imageName: "project3.jpg",
           demoLink: "https://chong1455.github.io/robofriends/",
+          githubLink: "https://github.com/Chong1455/robofriends",
         },
         {
           id: "p4",
@@ -47,6 +50,7 @@ export default {
           areas: ["frontend"],
           imageName: "project4.jpg",
           demoLink: "https://chong1455.github.io/paparazi/",
+          githubLink: "https://github.com/Chong1455/paparazi",
         },
         {
           id: "p5",
@@ -57,6 +61,7 @@ export default {
           technology: "HTML, CSS, Javascript",
           imageName: "project5.jpg",
           demoLink: "https://chong1455.github.io/todo-list.io/",
+          githubLink: "https://github.com/Chong1455/todo-list.io",
         },
         {
           id: "p6",
@@ -67,6 +72,7 @@ export default {
           technology: "HTML, CSS, Javascript",
           imageName: "project6.gif",
           demoLink: "https://chong1455.github.io/background-generator.io/",
+          githubLink: "https://github.com/Chong1455/background-generator.io",
         },
         {
           id: "p7",
@@ -77,6 +83,7 @@ export default {
           technology: "React, Node, Express, Jest, Redis",
           imageName: "project7.jpg",
           demoLink: "https://mighty-oasis-05538.herokuapp.com/",
+          githubLink: "https://github.com/Chong1455/cryptochain",
         },
         {
           id: "p8",
@@ -87,16 +94,42 @@ export default {
           technology: "React, Node, Express, DialoagFlow, MongoDB",
           imageName: "project8.jpg",
           demoLink: "https://still-lake-86205.herokuapp.com/",
+          githubLink: "https://github.com/Chong1455/chatbot",
         },
         {
           id: "p9",
-          name: "CKS's Website",
+          name: "MySelamat",
           description:
-            "A portfolio within a portfolio! Seriously, this website is a good example of my knowledge in Vue.js. I had made use of vue-router to switch between pages without refreshing the page and utilized vuex for better state management.",
+            "A Covid-19 contact tracing mobile app that allows user to register for a vaccine, update status, view SOP and scan QR code for travel history. Firebase is used to manage and store user data. MySelamat can be installed from Play Store.",
           areas: ["frontend"],
-          technology: "HTML, CSS, Vue",
-          imageName: "project1.jpg",
-          demoLink: "https://chong1455.github.io/background-generator.io/",
+          technology: "React native, Expo, Firebase",
+          imageName: "project9.png",
+          demoLink:
+            "https://play.google.com/store/apps/details?id=com.cks.my_selamat2",
+          githubLink: "https://github.com/Chong1455/mySelamat",
+        },
+        {
+          id: "p10",
+          name: "Forever & Ever",
+          description:
+            "A wedding planner website that guides couples through the wedding planning process. It provides many beautiful destinations for a wedding to take place.",
+          areas: ["frontend"],
+          technology:
+            "HTML, CSS, Javascript, Cookies, Local storage, Progressive Web App",
+          imageName: "project10.jpg",
+          demoLink: "https://uccd2223-cks.azurewebsites.net/index.html",
+          githubLink: "https://github.com/Chong1455/wedding-project",
+        },
+        {
+          id: "p11",
+          name: "Dapp Token Farm",
+          description:
+            "A full stack Decentralized Finance (DeFi) staking application for adding and removing any approved token from the contract to yield farming. Admin can issue tokens as a reward to the users staking on the platform.",
+          areas: ["frontend", "backend"],
+          technology: "Solidity, Python, Smart Contract, Brownie, React",
+          imageName: "project11.jpg",
+          demoLink: "https://chong1455.github.io/defi_front_end/",
+          githubLink: "https://github.com/Chong1455/defi-stake-yield-brownie",
         },
       ],
     };
