@@ -45,7 +45,7 @@ export default {
           id: "p4",
           name: "Paparazi",
           description:
-            "A website which can tell you the name of celebrity from an image. This model analyses over 10,000 images of recognized celebrities and returns probability scores on the likelihood of celebrity.",
+            "A website that uses Clarifai API which recognizes over 10,000 images of celebrities and returns the name of celebrity from an image.",
           technology: "HTML, CSS, React, Clarifai API",
           areas: ["frontend"],
           imageName: "project4.jpg",

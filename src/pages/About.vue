@@ -14,7 +14,7 @@
       </p>
       <div class="center">
         <a
-          href="https://drive.google.com/file/d/1YAGc2V31QScHzn6XIszFsHvgePQ6SLRA/view"
+          href="https://drive.google.com/file/d/1nJKlr8JGab-tVsnxomXVnLtwp9psh4Gd/view?usp=sharing"
           target="_blank"
         >
           <base-button>View Resume</base-button>
@@ -57,23 +57,28 @@
           <p><img src="../assets/express.png" />Express</p>
         </div>
         <div className="skill grow">
+          <p><img src="../assets/flask.png" />Flask</p>
+        </div>
+        <div className="skill grow">
+          <p><img src="../assets/solidity.png" />Solidity</p>
+        </div>
+        <div className="skill grow">
+          <p><img src="../assets/android.png" />Android</p>
+        </div>
+        <div className="skill grow">
           <p><img src="../assets/postgresql.png" />PostgreSQL</p>
         </div>
         <div className="skill grow">
           <p><img src="../assets/mongodb.png" />MongoDB</p>
         </div>
         <div className="skill grow">
-          <p><img src="../assets/github.png" />Github</p>
-        </div>
-
-        <div className="skill grow">
-          <p><img src="../assets/heroku.png" />Heroku</p>
-        </div>
-        <div className="skill grow">
           <p><img src="../assets/firebase.png" />Firebase</p>
         </div>
         <div className="skill grow">
-          <p><img src="../assets/solidity.png" />Solidity</p>
+          <p><img src="../assets/github.png" />Github</p>
+        </div>
+        <div className="skill grow">
+          <p><img src="../assets/heroku.png" />Heroku</p>
         </div>
       </div>
     </section>
