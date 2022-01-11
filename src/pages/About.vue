@@ -48,19 +48,10 @@
           <p><img src="../assets/react.png" />React</p>
         </div>
         <div className="skill grow">
-          <p><img src="../assets/vue.png" />Vue</p>
-        </div>
-        <div className="skill grow">
           <p><img src="../assets/node.png" />Node</p>
         </div>
         <div className="skill grow">
-          <p><img src="../assets/express.png" />Express</p>
-        </div>
-        <div className="skill grow">
           <p><img src="../assets/flask.png" />Flask</p>
-        </div>
-        <div className="skill grow">
-          <p><img src="../assets/solidity.png" />Solidity</p>
         </div>
         <div className="skill grow">
           <p><img src="../assets/android.png" />Android</p>

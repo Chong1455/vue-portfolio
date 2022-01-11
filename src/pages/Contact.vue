@@ -1,7 +1,7 @@
 <template>
   <base-card>
     <section>
-      <h1 class="center">Contact me</h1>
+      <h1 class="center">My contacts</h1>
       <div class="container">
         <div class="push">
           <img src="../assets/email.png" />

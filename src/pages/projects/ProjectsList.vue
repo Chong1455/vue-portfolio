@@ -35,8 +35,8 @@ export default {
   data() {
     return {
       activeFilters: {
-        frontend: true,
-        backend: true,
+        website: true,
+        mobile: true,
       },
     };
   },
@@ -44,10 +44,10 @@ export default {
     filteredProjects() {
       const projects = this.$store.getters["projects/projects"];
       return projects.filter((coach) => {
-        if (this.activeFilters.frontend && coach.areas.includes("frontend")) {
+        if (this.activeFilters.website && coach.areas.includes("website")) {
           return true;
         }
-        if (this.activeFilters.backend && coach.areas.includes("backend")) {
+        if (this.activeFilters.mobile && coach.areas.includes("mobile")) {
           return true;
         }
         return false;

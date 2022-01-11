@@ -25,12 +25,12 @@ export default {
   margin-right: 0.5rem;
 }
 
-.frontend {
+.website {
   background-color: #3d008d;
   color: white;
 }
 
-.backend {
+.mobile {
   background-color: #71008d;
   color: white;
 }

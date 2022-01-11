@@ -2,12 +2,12 @@
   <base-card>
     <h2>Filter Projects</h2>
     <span class="filter-option">
-      <input type="checkbox" id="frontend" checked @change="setFilter" />
-      <label for="frontend">FrontEnd</label>
+      <input type="checkbox" id="website" checked @change="setFilter" />
+      <label for="website">Website</label>
     </span>
     <span class="filter-option">
-      <input type="checkbox" id="backend" checked @change="setFilter" />
-      <label for="backend">BackEnd</label>
+      <input type="checkbox" id="mobile" checked @change="setFilter" />
+      <label for="mobile">Mobile</label>
     </span>
   </base-card>
 </template>
@@ -18,8 +18,8 @@ export default {
   data() {
     return {
       filters: {
-        frontend: true,
-        backend: true,
+        website: true,
+        mobile: true,
       },
     };
   },

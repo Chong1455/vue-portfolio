@@ -14,7 +14,7 @@
     </div>
     <div class="center">
       <a :href="demoLink" target="_blank">
-        <base-button mode="outline">Try it</base-button>
+        <base-button mode="outline">See Live</base-button>
       </a>
       <a :href="githubLink" target="_blank" class="githubLink">
         Source Code
