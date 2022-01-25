@@ -54,7 +54,7 @@
           <p><img src="../assets/flask.png" />Flask</p>
         </div>
         <div className="skill grow">
-          <p><img src="../assets/android.png" />Android</p>
+          <p><img src="../assets/flutter.png" />Flutter</p>
         </div>
         <div className="skill grow">
           <p><img src="../assets/postgresql.png" />PostgreSQL</p>

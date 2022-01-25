@@ -144,6 +144,18 @@ export default {
             "https://play.google.com/store/apps/details?id=com.cks.travelblog",
           githubLink: "https://github.com/Chong1455/TravelBlog",
         },
+        {
+          id: "p15",
+          name: "BMI Calculator",
+          description:
+            "A simple app that lets you to calculate your body mass index (BMI) based on your weight and height.",
+          areas: ["mobile"],
+          technology: "Flutter",
+          imageName: "project15.jpg",
+          demoLink:
+            "https://play.google.com/store/apps/details?id=com.cks.bmi_calculator",
+          githubLink: "https://github.com/Chong1455/BMI-Calculator",
+        },
       ],
     };
   },
